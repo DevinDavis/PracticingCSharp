@@ -1,0 +1,6 @@
+C:\Users\Devin\Documents\GitHub\PracticingCSharp\PractingCsharp\PractingCsharp\bin\Debug\PractingCsharp.exe.config
+C:\Users\Devin\Documents\GitHub\PracticingCSharp\PractingCsharp\PractingCsharp\obj\Debug\PractingCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Devin\Documents\GitHub\PracticingCSharp\PractingCsharp\PractingCsharp\bin\Debug\PractingCsharp.exe
+C:\Users\Devin\Documents\GitHub\PracticingCSharp\PractingCsharp\PractingCsharp\bin\Debug\PractingCsharp.pdb
+C:\Users\Devin\Documents\GitHub\PracticingCSharp\PractingCsharp\PractingCsharp\obj\Debug\PractingCsharp.exe
+C:\Users\Devin\Documents\GitHub\PracticingCSharp\PractingCsharp\PractingCsharp\obj\Debug\PractingCsharp.pdb
