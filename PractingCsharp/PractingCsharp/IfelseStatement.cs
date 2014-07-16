@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PractingCsharp
 {
-    class IfStatement
+    class IfelseStatement
     {
         static void Main(string[] args)
         {
@@ -17,11 +17,11 @@ namespace PractingCsharp
 
                 Console.WriteLine(" x is less than y");
 
-            if (x > y)
+            else if (x > y)
 
                 Console.WriteLine("x is greater than y");
 
-            if (x == y)
+            else
 
                 Console.WriteLine("x is equal to y");
         }
