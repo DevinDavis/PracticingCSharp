@@ -41,7 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AndOr.cs" />
+    <Compile Include="AndOr.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DoWhileLoop.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ForStatemtment.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -52,6 +57,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SwitchCaseStatment.cs" />
     <Compile Include="WhileLoop.cs">
       <SubType>Code</SubType>
     </Compile>
