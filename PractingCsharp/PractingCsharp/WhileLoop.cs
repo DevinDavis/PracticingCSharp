@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 namespace PractingCsharp
 {
-    class ForStatemtment
+    class WhileLoop
     {
         static void Main(string[] args)
         {
-            for (int i = 10; i >= 0; i--)
+            int x = 10;
+
+            while (x >= 0)
             {
-                Console.WriteLine("i = " + i);
+                Console.WriteLine("x = " + x);
+                x--; // = x-1;
             }
         }
     }
