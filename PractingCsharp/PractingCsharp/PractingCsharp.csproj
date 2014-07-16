@@ -44,6 +44,7 @@
     <Compile Include="AndOr.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Arrays.cs" />
     <Compile Include="DoWhileLoop.cs">
       <SubType>Code</SubType>
     </Compile>
